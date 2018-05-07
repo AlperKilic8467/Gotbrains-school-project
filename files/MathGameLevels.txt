@@ -1,0 +1,7 @@
+Got Brains? - Math Game Svårighetsgrader 
+
+Easy - Addition och subtraktion(range 1-9).
+
+Medium - Addition och subtraktion(range 1-99) och multiplikation(range 1-9).
+
+Hard - Addition och subtraktion(range 51-999) och multiplikation(range 5-49).
